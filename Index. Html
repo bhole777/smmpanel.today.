@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My SMM Panel</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="order.html">Order</a>
+    <a href="addfund.html">Add Fund</a>
+    <a href="history.html">History</a>
+    <a href="login.html">Login</a>
+  </nav>
+
+  <main>
+    <h1>Welcome to My Panel</h1>
+    <p>Get Instagram Followers, Likes, and More!</p>
+  </main>
+</body>
+</html>
